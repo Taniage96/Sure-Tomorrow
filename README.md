@@ -28,4 +28,4 @@ The dataset is stored in `datasets/insurance_us.csv`. It contains the following 
 * **Target:**
     * `insurance_benefits`: Number of insurance benefits received by the insured person in the last five years.
 
-## Project Structure
+
